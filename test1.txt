@@ -6,3 +6,4 @@ dev add context
 --no-ff -m
 
 git stash test
+bug 002
